@@ -17,7 +17,4 @@ Hey there 👋<br><br>I'm Varun, an aspiring Data Analyst currently working as a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=kogrees&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
